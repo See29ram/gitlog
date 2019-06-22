@@ -12,6 +12,7 @@ public class Test2 {
 		log.info("info");
 		log.debug("Debug");
 		log.error("Error");
+		System.out.println("Modified:offshore");
 		
 	}
 	
