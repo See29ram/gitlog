@@ -1,0 +1,6 @@
+14:12:08:371 ERROR Test1 -Error Message
+14:12:28:39 INFO  Test2 -info
+14:12:28:44 ERROR Test2 -Error
+14:13:14:352 INFO  Test2 -info
+14:13:14:360 DEBUG Test2 -Debug
+14:13:14:360 ERROR Test2 -Error
