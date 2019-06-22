@@ -3,6 +3,7 @@ A
 B
 C
 D
+<<<<<<< HEAD
 E
 F
 Number
@@ -10,3 +11,5 @@ Number
 2
 3
 4
+=======
+>>>>>>> master
