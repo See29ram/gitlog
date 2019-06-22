@@ -3,13 +3,10 @@ A
 B
 C
 D
-<<<<<<< HEAD
-E
-F
+
 Number
 1
 2
 3
 4
-=======
->>>>>>> master
+78
