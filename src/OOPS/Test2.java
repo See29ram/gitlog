@@ -13,6 +13,7 @@ public class Test2 {
 		log.debug("Debug");
 		log.error("Error");
 		System.out.println("Modified:offshore");
+		System.out.println("Modified:on shore");
 		
 	}
 	
